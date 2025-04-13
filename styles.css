@@ -88,6 +88,8 @@ select {
     margin-bottom: 10px;
     margin-top: 10px;
     font-size: 1rem;
+    padding-left: 10px;
+    font-size: 'Poppins', sans-serif;
 }
 
 input[type="text"]::placeholder,
